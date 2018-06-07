@@ -2,6 +2,7 @@
 # Add you Book class here
 class Book
 def intitialize("Title")
+@title = title 
 end
 
 def title 
