@@ -37,7 +37,7 @@ end
 
 
 def turn_page
-  puts "Flippinf the page... wow, you read fast!"
+  puts "Flipping the page... wow, you read fast!"
 end 
 
 end
