@@ -40,9 +40,10 @@ def turn_page
   puts "Flippinf the page... wow, you read fast!"
 end 
 
-
-
-
 end
+
+book= Book.new("Some Title")
+book.turn_page
+
 
 Book.new("And Then There Were None")
